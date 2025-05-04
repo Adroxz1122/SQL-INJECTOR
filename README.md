@@ -1,3 +1,2 @@
-A python project to automate the task of SQL injection
-this is incomplete as of now, will update it soon
-happy hacking🫡
+A Python project to automate the task of SQL injection
+This is incomplete as of now, will update it soon
